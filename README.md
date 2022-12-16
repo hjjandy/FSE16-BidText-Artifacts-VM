@@ -1,7 +1,7 @@
 ## Notice
 
 The VM in this repository has been removed. Please download it here:
-https://drive.google.com/open?id=0BwB5sVwXtBneY21Pb2NGVW9yT0E, which is a 
+https://drive.google.com/file/d/0BwB5sVwXtBneY21Pb2NGVW9yT0E/view?usp=sharing&resourcekey=0-07BUknQMbMvbF8q-WbZNHQ, which is a 
 tarball of all the VM images.
 
 ======================================
